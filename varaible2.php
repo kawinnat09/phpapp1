@@ -6,14 +6,14 @@
 
     $color = "red";
     echo "My car is ",$color,"<br />";
-    echo "My House is ",$COLOR,"<br />";
+    echo "My House is ",$color,"<br />";
 ?>
 
 <?php
     $a = "Hello";
     $_b = "Hello2";
     $_9 = "Hello3";
-    echo "$a <br /> $_b";
+    echo "$a <br /> $_b", "<br />";
 ?>
 
 <?php

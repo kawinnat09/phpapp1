@@ -1,7 +1,7 @@
 <?php
     function local(){
         $num = 45;
-        echo "Local variable : ", $num;
+        echo "Local variable : ", $num, "<br />";
     }
     local();
 ?>
